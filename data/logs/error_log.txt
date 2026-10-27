@@ -1,0 +1,1 @@
+2025-10-18 10:12:34 ERROR Motor1: Unexpected vibration spike. Sensor reading exceeded threshold.\nTechnician note: observed smoke near bearing.

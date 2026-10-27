@@ -1,0 +1,1 @@
+Smart Industrial Maintenance System (SIMS) - Starter Project\nRun python main.py\nSet OPENAI_API_KEY in environment variables to use OpenAI utilities.\n

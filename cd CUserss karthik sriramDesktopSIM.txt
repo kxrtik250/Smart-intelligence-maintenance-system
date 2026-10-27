@@ -1,0 +1,2 @@
+ cd C:\Users\s karthik sriram\Desktop\SIMS_Project
+ python main.py

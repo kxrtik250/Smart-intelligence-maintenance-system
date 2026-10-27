@@ -1,0 +1,5 @@
+roles:
+  - name: engineer
+    permissions: [read, create_ticket]
+  - name: admin
+    permissions: [read, write, manage]
